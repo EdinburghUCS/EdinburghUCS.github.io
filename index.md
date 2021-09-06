@@ -1,6 +1,7 @@
 ---
 title: Edinburgh Union Canal Society
-layout: default
+layout: page
+permalink: /
 ---
 
 # Edinburgh Union Canal Society
