@@ -1,1 +1,0 @@
-# Edinburgh Union Canal Society
