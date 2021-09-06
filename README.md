@@ -1,1 +1,1 @@
-# EdinburghUCS.github.io
+# Edinburgh Union Canal Society
