@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title {  
+    width: 311px; height: 261px; display: block; 
+    background: url('../logo-medium.png') no-repeat 0 0;
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+}
