@@ -25,18 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eucs.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
-minima:
-  # generate social links in footer
-  social_links:
-    twitter: edinburghucs
-    facebook:  edinburghucs
-    instagram: edinburghucs
-
+# social links
+twitter_username: edinburghucs
+facebook_username: edinburghucs
+instagram_username: edinburghucs
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  
+# Google Analytics
+google_analytics: G-DBZ0P9LVVL
 
 # Exclude from processing.
 # The following items will not be processed, by default.
