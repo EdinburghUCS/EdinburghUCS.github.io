@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   
 # Google Analytics
-google_analytics: G-DBZ0P9LVVL
+google_analytics: UA-211681764-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
